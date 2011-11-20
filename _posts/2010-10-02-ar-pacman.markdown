@@ -1,0 +1,26 @@
+---
+layout: post
+title: AR Pacman
+description: My first project in Node.js
+---
+
+It is an Augmented Reality Pacman working on the iPhone, viewing realtime via the web browser.
+
+It was a 24 hours non-sleep hack that we built overnight with an idea in mind.
+
+We built the server side using [Node.js][2] and the client side using the network library in iOS. The web browser uses HTML5 (Canvas) to display the pacman maze overlaying on a Google Map. It also uses Comet (long-held HTTP request) to retrieve information from the server in realtime. We use [Socket.IO][3] here which provides fallback mechanism that depends on the browser. For example, Safari will use HTML5 Websocket, Firefox will use Flash socket, and Chrome will use long-polling.
+
+We use JSON to communicate between the web server and the web clients.
+
+Github link is [here][1].
+
+Note: My team consists of me, Yo Han Ko and Sukolsak Sakshuwong.
+
+Pictures:
+<img src="http://cdn.siong1987.com/ar-pacman.png" alt="alt text" />
+<br />
+<img src="http://cdn.siong1987.com/photo.PNG" alt="alt text" width="400" />
+
+[1]: http://github.com/siong1987/AR-Pacman.git
+[2]: http://nodejs.org/
+[3]: http://socket.io/
