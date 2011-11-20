@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Swearing
+description: Example from Holman
 hn: http://news.ycombinator.com/item?id=3217382
 ---
 
