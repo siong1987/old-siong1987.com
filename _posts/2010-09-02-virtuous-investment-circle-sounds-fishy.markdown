@@ -6,16 +6,16 @@ description: VIC is a new and fishy angel group in Malaysia
 
 [Virtuous Investment Circle][4] is a new angel group in Malaysia. According to their mission
 statement:
-    The Virtuous Investment Circle (ViC) is an independent 
-    non-profit organisation that aims to create a vibrant 
+    The Virtuous Investment Circle (ViC) is an independent
+    non-profit organisation that aims to create a vibrant
     ecosystem for angel investing in Malaysia.
 
 So, they are supposed to be an independent <b>non-profit
 organisation</b>. But, later in their FAQ, they stated that:
-    There will be a nominal fee of RM500 for each investment 
-    proposal to be submitted to the ViC. There will also be a 
-    3% to 5% commission for projects that have successfully 
-    received investments from ViC angel investors. 
+    There will be a nominal fee of RM500 for each investment
+    proposal to be submitted to the ViC. There will also be a
+    3% to 5% commission for projects that have successfully
+    received investments from ViC angel investors.
 
 So, it seems like there is a <b>nominal</b> fee of <b>RM500</b> that they
 charge for each investment proposal. And, each successful investment
