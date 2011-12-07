@@ -4,7 +4,11 @@ title: Introducing FLOChip
 description: FLOChip is my new venture.
 ---
 
-Recently, if you have noticed, I have stopped writing on this blog. In fact, I have slowly shifted my writings to my new blog at [FLOChip blog][1]. [FLOChip][2] in fact is the company that I started and have been working on for the past year. It is basically a web workshop that explores the local internet market in Malaysia/South East Asia. Some web apps that we have built are:
+Recently, if you have noticed, I have stopped writing on this blog. In fact, I have slowly shifted my writings to my new blog at [FLOChip blog][1]. [FLOChip][2] in fact is the company that I started and have been working on for the past year. It is basically a web workshop that explores the local internet market in Malaysia/South East Asia.
+
+## Projects
+
+Some web apps that we have built are:
 
 * [WeiLangWang][3] - an online Chinese radio
 * [dearppl][4] - Brighten Someone’s Day, One Apology At A Time.
@@ -12,7 +16,11 @@ Recently, if you have noticed, I have stopped writing on this blog. In fact, I h
 * [SlurpMAG][6] - Online food magazine in Malaysia.
 * [PuffyLAB][7] - Online tees branding.
 
-Btw, we do take outside contracts as a source income to support our exploration on the web. Projects that we have worked on:
+Btw, we do take outside contracts as a source income to support our exploration on the web.
+
+## Contracts
+
+Contracts that we have worked on:
 
 * [ShoonFatt Biscuit Factory][8] - Web design, content management system and Facebook page management.
 * [Genting Casinos][9] - HTML/CSS Conversion and some basic javascript widgets.

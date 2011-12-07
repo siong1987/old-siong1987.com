@@ -8,15 +8,25 @@ description: Do you want to see jQuery in Rails 3?
 
 Recently, I see more and more people start using Rails with [jQuery][3]. The Rails Core team actually maintains a jQuery [rails.js][2] file. But, Rails 3 doesn't have an option for you to start with jQuery as the default Javascript library.
 
-Hence, I decided to patch this feature myself. With my patch, you can start a Rails 3 project with jQuery as the default Javascript library with the "-j" option. And, it accepts both "jquery" or "prototype" as its parameter.
+## Patch
+
+Hence, I decided to patch this feature myself. With my patch, you can start a Rails 3 project with jQuery as the default Javascript library with the `-j` option. And, it accepts both "jquery" or "prototype" as its parameter.
+
+## How
 
 In short, you can start a Rails 3 project with jQuery in this way:
-    rails new my_cool_project -j jquery
-    
+
+{% highlight bash %}
+rails new my_cool_project -j jquery
+{% endhighlight %}
+
 And, to skip Javascript at all. You can do:
-    rails new my_cool_project --skip-javascript
-    
-which I think is better than the "--skip-prototype" option Rails 3 provides now. Want to see this get into the future Rails 3 release? Do +1 [here][1] at Lighthouse.
+
+{% highlight bash %}
+rails new my_cool_project --skip-javascript
+{% endhighlight %}
+
+which I think is better than the `--skip-prototype` option Rails 3 provides now. Want to see this get into the future Rails 3 release? Do +1 [here][1] at Lighthouse.
 
 Edit: Finally, the commit is [in][4].
 

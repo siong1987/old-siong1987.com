@@ -175,9 +175,9 @@ h3{
 }
 #post p{
   font-size: 16px;
-  margin-top: 0;
+  margin-top: 1.2em;
   margin-bottom: 1.2em;
-  line-height: 1.7em;
+  line-height: 1.6em;
 }
 #post img{
   display: block;

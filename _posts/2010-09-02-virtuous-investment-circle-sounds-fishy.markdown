@@ -4,18 +4,25 @@ title: Virtuous Investment Circle Sounds Fishy
 description: VIC is a new and fishy angel group in Malaysia
 ---
 
-[Virtuous Investment Circle][4] is a new angel group in Malaysia. According to their mission
-statement:
-    The Virtuous Investment Circle (ViC) is an independent
-    non-profit organisation that aims to create a vibrant
-    ecosystem for angel investing in Malaysia.
+[Virtuous Investment Circle][4] is a new angel group in Malaysia. According to their mission statement:
+
+<blockquote>
+The Virtuous Investment Circle (ViC) is an independent
+non-profit organisation that aims to create a vibrant
+ecosystem for angel investing in Malaysia.
+</blockquote>
 
 So, they are supposed to be an independent <b>non-profit
 organisation</b>. But, later in their FAQ, they stated that:
-    There will be a nominal fee of RM500 for each investment
-    proposal to be submitted to the ViC. There will also be a
-    3% to 5% commission for projects that have successfully
-    received investments from ViC angel investors.
+
+## Charge
+
+<blockquote>
+There will be a nominal fee of RM500 for each investment
+proposal to be submitted to the ViC. There will also be a
+3% to 5% commission for projects that have successfully
+received investments from ViC angel investors.
+</blockquote>
 
 So, it seems like there is a <b>nominal</b> fee of <b>RM500</b> that they
 charge for each investment proposal. And, each successful investment
@@ -33,17 +40,24 @@ assume that VIC only gets 10% of this number, which is <b>200</b> per year.
 They are making an awesome amount of <b>RM100k</b> per year just by reading
 investment proposals by poor entrepreneurs like you and me.
 
+## Bullshit Reasons
+
 According to their website, they also said that:
-    The reason we charge a nominal RM500 fee for each submission 
-    is that we want to ensure that the companies who are applying
-    to ViC are really serious about getting funded by angel 
-    investors.
+
+<blockquote>
+The reason we charge a nominal RM500 fee for each submission 
+is that we want to ensure that the companies who are applying
+to ViC are really serious about getting funded by angel 
+investors.
+</blockquote>
 
 Actually, there are many ways to tackle this problem. I have a
 simple solution here. Since they claim that they are a <b>non-profit 
 organisation</b>, I suggest that they can ask each entrepreneur to 
 attach a RM500 [World Vision Malaysia][1] donation receipt with 
 each investment proposal submitted to you.
+
+## Commission
 
 Now, let's talk about the <b>3% to 5%</b> commission that VIC are going to take
 from each successful investment. How are they going to spend the money?
@@ -60,8 +74,11 @@ companies were created by the investment from about 40 ex-googlers. But,
 you have to know that these ex-googlers don't charge people to pitch to
 them. And, VIC do. There is a huge difference here.
 
-<img class="right" src="http://cdn.siong1987.com/fish.jpg" alt="alt text" />
+<img src="http://cdn.siong1987.com/fish.jpg" alt="alt text" />
+
 Before I end this post, if you are people from VIC reading this post:
+
+## Drop the Charge 
 
 Seriously, VIC, drop your <b>RM500</b> pitching fee if you really
 want to help local entrepreneurs. And, if you do want to charge a <b>3% to

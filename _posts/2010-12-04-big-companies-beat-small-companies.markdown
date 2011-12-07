@@ -10,7 +10,9 @@ People always ask me.
 
 When Netflix started, many people think that Blockbuster can kill Netflix easily. But, just a few weeks ago, Blockbuster declared their bankruptcy and Netflix is growing like crazy.
 
-Why? Because:
+## Why?
+
+Because:
 
 * Big companies especially listed companies has to care about their investors money in their companies.
 * There are many factors other than money to create a successful business, for example, talents, relationships.
