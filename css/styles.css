@@ -299,6 +299,9 @@ h3{
 .project{
   margin: 30px 0;
 }
+.project p{
+  line-height: 1.4em;
+}
 .project img{
   margin-top: 10px;
   border-radius: none;
