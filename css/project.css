@@ -1,6 +1,7 @@
 body{
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-  margin: 0;
+  margin: 0 auto;
+  width: 635px;
   -webkit-font-smoothing: antialiased;
 }
 .clear{
@@ -27,8 +28,8 @@ hr{
   margin: 2em 1em;
 }
 .content{
-  margin: 175px 0 50px 70px;
-  width: 650px;
+  margin: 40px 0 50px 0px;
+  width: 635px;
 }
 .content ul{
   margin-left: -10px;
@@ -90,28 +91,39 @@ h3{
 }
 
 #header{
-  position: fixed;
-  background: url(/images/header_bg.png);
   left: 15px;
   top: 0;
-  width: 705px;
+  width: 635px;
 }
 #header h1{
   float: left;
-  font-size: 108px;
+  font-size: 96px;
   border-bottom: none;
   margin-top: 0;
   font-weight: bold;
 }
+#header .project-title {
+  font-size: 140px;
+  color: #92B358;
+  margin: 10px 10px 10px 10px;
+}
 #header h2{
+  position: absolute;
+  margin: 162px 0 0 515px;
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	-o-transform: rotate(90deg);
+  color: #FF4342;
+}
+#header h3{
   font-size: 24px;
   border-bottom: none;
   margin: -30px 0 0 70px;
 }
-#header h2 a{
+#header h3 a{
   color: #666;
 }
-#header h2 a:hover{
+#header h3 a:hover{
   color: #000;
 }
 #header a{
