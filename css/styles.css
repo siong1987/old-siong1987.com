@@ -66,7 +66,7 @@ hr{
 }
 h1,h2,h3,h4{
   color: #333;
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: Helvetica, sans-serif;
   font-weight: 400;
   border-bottom: 1px solid #ccc;
 }
@@ -200,7 +200,7 @@ h3{
 }
 #post .authoring{
   margin-bottom: 17px;
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: Helvetica, sans-serif;
   padding-left: 0px;
   font-size: 17px;
   color: #777;
