@@ -160,12 +160,13 @@ h3{
   padding-bottom: 30px;
   margin-bottom: 30px;
 }
+#post h2{
+  font-size: 24px;
+}
 #post ul{
   font-size: 15px;
-  margin: 20px 20px 20px 0;
 }
 #post li{
-  line-height: 1.4em;
   color: #222;
   list-style-type: square;
 }
@@ -173,9 +174,9 @@ h3{
   border: 1px solid #ccc;
 }
 #post p{
-  font-size: 16px;
-  margin-top: 1.2em;
-  margin-bottom: 1.2em;
+  font-size: 15px;
+  margin-top: 1em;
+  margin-bottom: 1em;
   line-height: 24px;
 }
 #post img{
