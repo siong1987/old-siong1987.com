@@ -8,31 +8,20 @@
 #header .site{
   display: none;
 }
-#header .avatar{
-  width: 40px;
-  height: 40px;
-  margin-bottom: -10px;
-  margin-right: 5px;
+#header h1{
+  font-size: 120px;
 }
-#header #me{
-  display: inline;
-}
-#header #zach, #header #holman{
-  font-size: 30px;
-  color: #000;
-  font-family: 'Yanone Kaffeesatz', sans-serif;
-  letter-spacing: 0;
-  font-weight: normal;
-  text-transform: none;
-  padding-right: 3px;
-}
-#header #sections{
+#sections{
+  position: relative;
   margin: 0;
 }
-#header #sections div{
+#sections div{
   display: inline;
+  margin-right: 20px;
 }
-
+#sections div a {
+  font-size: 48px;
+}
 .content{
   margin-left: 0;
   width: inherit;
@@ -41,12 +30,37 @@
 .authoring{
   font-size: 2em !important;
 }
-h1, h2, h3{
-  font-size: 3em;
+#projects p, .content p, #post p{
+  font-size: 48px;
+  line-height: 1.2em;
 }
-.content p, #post p{
-  font-size: 2em;
+#projects h1, #post h1{
+  font-size: 72px;
+}
+#projects h2, #post h2{
+  font-size: 60px;
+}
+#projects h3{
+  font-size: 56px;
+}
+#projects .link{
+  font-size: 36px;
+}
+.content li, #post li {
+  font-size: 48px;
+}
+.content li span {
+  font-size: 36px;
+}
+.content li div{
+  font-size: 30px;
 }
 .content .copy{
   line-height: 3em;
+}
+.whoring h3{
+  font-size: 48px;
+}
+.whoring img{
+  display: none;
 }

@@ -14,25 +14,17 @@
   margin-bottom: -10px;
   margin-right: 5px;
 }
-#header #me{
-  display: inline;
-}
-#header #zach, #header #holman{
-  font-size: 30px;
-  color: #000;
-  font-family: 'Yanone Kaffeesatz', sans-serif;
-  letter-spacing: 0;
-  font-weight: normal;
-  text-transform: none;
-  padding-right: 3px;
-}
-#header #sections{
+#sections{
+  position: relative;
   margin: 0;
 }
-#header #sections div{
+#sections div{
   display: inline;
+  margin-right: 20px;
 }
-
+#sections div a {
+  font-size: 48px;
+}
 .content{
   margin-left: 0;
   width: inherit;
@@ -41,12 +33,26 @@
 .authoring{
   font-size: 2em !important;
 }
-h1, h2, h3{
-  font-size: 3em;
+#projects h1, #post h1{
+  font-size: 72px;
 }
-.content p, #post p{
-  font-size: 2em;
+#projects h2, #post h2{
+  font-size: 48px;
+}
+#projects p, .content p, #post p{
+  font-size: 28px;
+  line-height: 1.2em;
+}
+#projects h3{
+  font-size: 36px;
+}
+#projects .link{
+  font-size: 24px;
+}
+.content li, #post li {
+  font-size: 28px;
 }
 .content .copy{
   line-height: 3em;
 }
+
