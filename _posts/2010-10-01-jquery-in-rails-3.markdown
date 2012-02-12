@@ -4,7 +4,7 @@ title: jQuery in Rails 3
 description: Do you want to see jQuery in Rails 3?
 ---
 
-<img class="right" src="http://cdn.siong1987.com/jquery.png" alt="alt text" />
+<img class="right" src="/images/jquery.png" />
 
 Recently, I see more and more people start using Rails with [jQuery][3]. The Rails Core team actually maintains a jQuery [rails.js][2] file. But, Rails 3 doesn't have an option for you to start with jQuery as the default Javascript library.
 

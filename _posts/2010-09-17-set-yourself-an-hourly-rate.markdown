@@ -4,7 +4,7 @@ title: Set Yourself An Hourly Rate
 description: One of my productivity tips that I learned over years.
 ---
 
-<img src="http://cdn.siong1987.com/clock.jpeg" alt="alt text" />
+<img src="/images/clock.jpeg" />
 
 To be a startup founder is hard, you have to work on so many stuff like coding the backend, designing the website, deploying the server, etc. All these things take time.
 

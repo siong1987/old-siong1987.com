@@ -4,7 +4,7 @@ title: My First Post
 description: My first post on http://siong1987.com
 ---
 
-<img src="http://cdn.siong1987.com/start.jpg" alt="alt text" />
+<img src="/images/start.jpg" />
 
 This is not the first time I actually want to get myself on serious blogging. I moved from [Wordpress][1] to [Posterous][2]. Now, I am running this on [Heroku][3] with [toto][4].
 

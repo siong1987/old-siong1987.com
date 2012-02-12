@@ -74,7 +74,7 @@ companies were created by the investment from about 40 ex-googlers. But,
 you have to know that these ex-googlers don't charge people to pitch to
 them. And, VIC do. There is a huge difference here.
 
-<img src="http://cdn.siong1987.com/fish.jpg" alt="alt text" />
+<img src="/images/fish.jpg" />
 
 Before I end this post, if you are people from VIC reading this post:
 

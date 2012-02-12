@@ -1,7 +1,6 @@
 body{
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: "Playfair Display", serif;
   margin: 0;
-  -webkit-font-smoothing: antialiased;
 }
 .clear{
   clear: both;
@@ -40,19 +39,21 @@ hr{
 }
 .related{
   margin-top: 10px;
-  font-family: "Helvetica", sans-serif;
 }
 .related ul{
   margin: 0;
   padding: 0;
 }
 .related li{
-  font-size: 13px;
+  font-size: 16px;
   list-style: none;
   padding: 5px 3px;
   margin: 0;
   color: #777;
   border-bottom: 1px solid #eee;
+}
+.related li div{
+  font-size: 14px;
 }
 .related li span{
   float: right;
@@ -149,7 +150,6 @@ h3{
   background-color: #000;
   padding: 3px 5px;
   color: #fff;
-  font-weight: bold;
   font-size: 12px;
 }
 #header #sections a:hover{
@@ -166,7 +166,6 @@ h3{
 }
 #post li{
   line-height: 1.4em;
-  margin-bottom: 1em;
   color: #222;
   list-style-type: square;
 }
@@ -177,14 +176,13 @@ h3{
   font-size: 16px;
   margin-top: 1.2em;
   margin-bottom: 1.2em;
-  line-height: 1.6em;
+  line-height: 24px;
 }
 #post img{
   display: block;
   margin-left: auto;
   margin-right: auto;
   max-width: 610px;
-  -webkit-border-radius: 8px;
   -webkit-box-shadow: 0px 0px 5px #555;
 }
 #post img.noclip{
@@ -196,7 +194,6 @@ h3{
   padding: 14px;
   font-size: 14px;
   margin: 5px 0 15px 0;
-  font-family: Helvetica, sans-serif;
   line-height: 1.6em;
 }
 #post .aside strong{
@@ -228,9 +225,8 @@ h3{
 .whoring{
   margin: 30px 0;
   padding: 10px 0;
-  font-family: Helvetica, sans-serif;
   font-size: 14px;
-  line-height: 20px;
+  line-height: 22px;
 }
 .whoring p{
   margin-top: 0px;
@@ -246,9 +242,6 @@ h3{
 .whoring .copy{
   padding-left: 60px;
 }
-.whoring .twitter-follow-button{
-  width: 75px !important;
-}
 
 /*
  
@@ -257,7 +250,6 @@ h3{
  */
 #projects h3{
   font-size: 18px;
-  font-family: Helvetica, sans-serif;
   padding: 5px 7px;
   color: #fff;
   display: inline;
@@ -268,8 +260,6 @@ h3{
 }
 .project .link{
   font-size: .9em;
-  font-family: Helvetica, sans-serif;
-  font-weight: bold;
   margin-left: 10px;
   display: inline;
 }
@@ -281,7 +271,6 @@ h3{
   color: #000;
 }
 .project .link {
-  font-family: Helvetica, sans-serif;
   font-size: 13px;
   margin-top: 10px;
   margin-left: 7px;
@@ -309,7 +298,7 @@ h3{
 }
 
 /*
- 
+
  HACKER NEWS MAD KARMA
 
  */
@@ -319,7 +308,7 @@ h3{
 
 
 /*
- 
+
  BOASTFUL
 
  */

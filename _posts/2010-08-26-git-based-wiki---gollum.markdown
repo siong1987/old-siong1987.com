@@ -4,7 +4,7 @@ title: Git Based Wiki - gollum
 description: A rant about Git-based wiki - gollum
 ---
 
-<img src="http://cdn.siong1987.com/wiki.jpg" alt="alt text" />
+<img src="/images/wiki.jpg" />
 
 [Github][1] has just launched a new interesting project called gollum. [gollum][2] is a Git-based wiki that works like, yeah, Git.
 

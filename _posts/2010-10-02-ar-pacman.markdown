@@ -24,9 +24,9 @@ My team consists of me, Yo Han Ko and Sukolsak Sakshuwong.
 
 Github link is [here][1].
 
-<img src="http://cdn.siong1987.com/ar-pacman.png" alt="alt text" />
+<img src="/images/ar-pacman.png" />
 <br />
-<img src="http://cdn.siong1987.com/photo.PNG" alt="alt text" width="400" />
+<img src="/images/photo.png" width="400" />
 
 [1]: http://github.com/siong1987/AR-Pacman.git
 [2]: http://nodejs.org/
