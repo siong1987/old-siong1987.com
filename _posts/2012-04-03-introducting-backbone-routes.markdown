@@ -4,8 +4,7 @@ title: Introducing Backbone Routes
 description: Rails like routes.rb for Backbone 
 ---
 
-I created this [Backbone][1] plugin few months ago for [DailyMuses][2]. At
-DailyMuses, we depend heavily on Backbone and concurrent routers call
+At [DailyMuses][2], we depend heavily on [Backbone][1] and concurrent routers call
 for a single page in order to have a better way to organize our
 codebase.
 
