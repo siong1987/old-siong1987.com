@@ -6,9 +6,7 @@ description: Rails like routes.rb for Backbone
 
 At [DailyMuses][2], we depend heavily on [Backbone][1] and concurrent routers call
 for a single page in order to have a better way to organize our
-codebase.
-
-Since I am coming from the [Rails][3] background, when I first tried to
+codebase. Since I am coming from the [Rails][3] background, when I first tried to
 tackle this problem, I immediately thought of the way how Rails handles
 multiple routes with `config/routes.rb`. Hence, I created [Backbone
 Routes][4].
