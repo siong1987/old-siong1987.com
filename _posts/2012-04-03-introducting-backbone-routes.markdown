@@ -77,7 +77,7 @@ Backbone.Routes.map
 {% endhighlight %}
 
 So, the first thing you have to set is the `prefix` for Backbone.Routes.
-The default is `window`. So, how is it used by Backbone.Routes. If you
+The default is `window`. So, how is it used by Backbone.Routes? If you
 take a look at the first route: "/". There are `NavbarRouter` and
 `HomeRouter`. So, once you set the `prefix`, inside Backbone.Routes, it
 will call:
