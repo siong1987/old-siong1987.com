@@ -175,10 +175,12 @@ purged from the cache.
 ## Help/Issues
 
 The code is extremely simple. Just read the source code if you have any
-questions. Or, you can create a GitHub issue, I will look at them as
+questions. Or, you can create a GitHub [issue][5], I will look at them as
 soon as I have the time.
 
 [1]: http://documentcloud.github.com/backbone/
 [2]: http://dailymus.es/
 [3]: http://rubyonrails.org/ 
-[4]: https://github.com/siong1987/backbone_routes/  
+[4]: https://github.com/siong1987/backbone_routes/
+[5]: https://github.com/siong1987/backbone_routes/issues/
+ 
