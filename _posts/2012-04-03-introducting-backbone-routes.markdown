@@ -122,14 +122,17 @@ So, you might want to ask, what the following code does?
 
 Yes, it is exactly what you think it is. Two routers get called when the
 route `/` is hit. Why is this? I do this because I separated the logic
-for the navigation bar and the realy homepage. So, my code can be more
+for the navigation bar and the real homepage. So, my code can be more
 modularized in the way that people who work on the navigation bar and
 the people who work on the homepage do not have to step on the foot of
 each other.
 
 More modularized code also means less commit conflicts and less points
-of
-failure.
+of failure.
+
+Besides, it also means less duplicated code. For example, `NavbarRouter#index`
+is rendered on almost all pages. So, you can just call it via Backbone
+Routes once under each route when that part of the page has to be rendered.
 
 ## Caching
 
