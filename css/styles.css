@@ -25,6 +25,9 @@ hr{
   background-color: #ccc;
   margin: 2em 1em;
 }
+iframe{
+  border: none;
+}
 .content{
   margin: 95px 0 50px 70px;
   width: 650px;
