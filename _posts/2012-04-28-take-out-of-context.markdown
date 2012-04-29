@@ -4,7 +4,7 @@ title: Take Out of Context
 description: It is so scary to report thing out of context. 
 ---
 
-I had a friend who is a journalist. He told me that he only writes "what
+I have a friend who is a journalist. He told me that he only writes "what
 actually happened".  Below was a short video he posted on his Facebook
 account after the Bersih 3.0 protest in Malaysia yesterday.
 
