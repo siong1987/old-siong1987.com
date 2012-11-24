@@ -4,6 +4,8 @@ title: Forkbin Open Sourced
 description: github for lists 
 ---
 
+<img src="/images/forkbin/forkbin.png" />
+
 [Forkbin][1] is github for lists.  You can fork others lists or create
 your own.  You can use the site at [http://forkbin.com][1].
 
