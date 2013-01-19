@@ -180,7 +180,7 @@ soon as I have the time.
 
 [1]: http://documentcloud.github.com/backbone/
 [2]: http://dailymus.es/
-[3]: http://rubyonrails.org/ 
-[4]: https://github.com/siong1987/backbone_routes/
+[3]: http://rubyonrails.org/
+[4]: http://siong1987.com/backbone_routes/
 [5]: https://github.com/siong1987/backbone_routes/issues/
  
