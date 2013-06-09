@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introducing FLOChip
+categories : [ blog ]
 description: FLOChip is my new venture.
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Repost from My Friend
+categories : [ blog ]
 description: A post from my friend - Arius Lee.
 ---
 

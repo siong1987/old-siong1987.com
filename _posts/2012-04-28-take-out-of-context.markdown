@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Take Out of Context 
+categories : [ blog ]
 description: It is so scary to report thing out of context. 
 ---
 

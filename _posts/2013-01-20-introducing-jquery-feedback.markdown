@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introducing jQuery Feedback
+categories : [ blog ]
 description: A clone of Branch.com Feedback Widget
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Crash of An Engineer Soul
+categories : [ blog ]
 description: Being an engineer founder in a startup is just not enough.
 ---
 

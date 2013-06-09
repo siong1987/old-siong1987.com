@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Powerful and Hidden rake:notes in Rails
+categories : [ blog ]
 description: Rails like routes.rb for Backbone 
 ---
 

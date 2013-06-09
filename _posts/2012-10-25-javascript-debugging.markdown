@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Javascript Debugging
+categories : [ blog ]
 description: How to debug Javascript
 ---
 

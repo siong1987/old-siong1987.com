@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My First Post
+categories : [ blog ]
 description: My first post on http://siong1987.com
 ---
 

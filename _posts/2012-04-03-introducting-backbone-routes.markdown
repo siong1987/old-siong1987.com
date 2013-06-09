@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introducing Backbone Routes 
+categories : [ blog ]
 description: Rails like routes.rb for Backbone 
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: AR Pacman
+categories : [ blog ]
 description: My first project in Node.js
 ---
 

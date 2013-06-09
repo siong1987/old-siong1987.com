@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Git Based Wiki - gollum
+categories : [ blog ]
 description: A rant about Git-based wiki - gollum
 ---
 

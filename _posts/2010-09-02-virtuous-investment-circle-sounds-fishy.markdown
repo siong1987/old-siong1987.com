@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Virtuous Investment Circle Sounds Fishy
+categories : [ blog ]
 description: VIC is a new and fishy angel group in Malaysia
 ---
 

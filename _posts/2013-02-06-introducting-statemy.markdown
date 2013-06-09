@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introducing StateMY
+categories : [ blog ]
 description: My first symbol font for Malaysia map.
 ---
 

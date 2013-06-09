@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Silicon Valley in Malaysia?
+categories : [ blog ]
 description: Resembling Silicon Valley's success model into Malaysia is just not possible.
 ---
 

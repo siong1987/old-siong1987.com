@@ -1,6 +1,7 @@
 ---
 layout: post
 title: jQuery in Rails 3
+categories : [ blog ]
 description: Do you want to see jQuery in Rails 3?
 ---
 

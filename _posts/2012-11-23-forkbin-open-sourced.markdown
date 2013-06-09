@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Forkbin Open Sourced
+categories : [ blog ]
 description: github for lists 
 ---
 

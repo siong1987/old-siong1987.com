@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Sell Your Startup to another Startup
+categories : [ blog ]
 description: My experience on selling GraffitiGeo to another startup.
 ---
 

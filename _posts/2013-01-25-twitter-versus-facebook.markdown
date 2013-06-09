@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Twitter versus Facebook
+categories : [ blog ]
 description: Best comparison between the two social networks.
 ---
 

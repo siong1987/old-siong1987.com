@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Big Companies Beat Small Companies?
+categories : [ blog ]
 description: Will Google create a Groupon clone to kill Groupon?
 ---
 

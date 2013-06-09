@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Set Yourself An Hourly Rate
+categories : [ blog ]
 description: One of my productivity tips that I learned over years.
 ---
 

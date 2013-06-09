@@ -1,0 +1,19 @@
+---
+layout: layout
+title: "Crockpot Recipes - siong1987"
+---
+
+<div class="content">
+
+<div class="related recipes">
+  <ul>
+  {% for recipe in site.categories.recipe %}
+    <li>
+      <a href="{{ recipe.url }}"><img src='{{ recipe.description }}' /></a>
+      <br />
+      <span>{{ recipe.date | date: "%B %e, %Y" }}</span> <a href="{{ recipe.url }}">{{ recipe.title }}</a>
+    </li>
+  {% endfor %}
+  </ul>
+  </div>
+</div>

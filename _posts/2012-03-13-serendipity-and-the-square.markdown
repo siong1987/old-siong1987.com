@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Serendipity and the Square
+categories : [ blog ]
 description: Why Instructors Should Never Use Piazza From the Coffee Shop.
 ---
 
