@@ -100,7 +100,7 @@ performance
 
 <img src="/images/javascript-debugging/7.png" />
 
-Under `timing`, you can see how the page is rendered, measured in milliseconds since midnight of January 1, 1970 (UTC).  If you want to learn more about `performance`, you can check out this [article][4].  In Chrome, you will notice the extra `memory` attribute
+Under `timing`, you can see how the page is rendered, measured in milliseconds (Unix time).  If you want to learn more about `performance`, you can check out this [article][4].  In Chrome, you will notice the extra `memory` attribute
 
 Obviously, there are more that I have missed here, you can check out a [full list of `console` APIs][5].
 
